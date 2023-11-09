@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'ProximaNova-Light';
+    src: url('../fonts/ProximaNova-Light.eot');
+    src:
+        url('../fonts/ProximaNova-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ProximaNova-Light.woff') format('woff'),
+        url('../fonts/ProximaNova-Light.ttf') format('truetype');
+}
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'ProximaNova-Light', sans-serif;
+}
+body {
+    background-color: #020817;
+}
+ul {
+    list-style-type: none;
+}
